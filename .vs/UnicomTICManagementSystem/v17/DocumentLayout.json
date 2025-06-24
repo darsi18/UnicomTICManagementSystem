@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\unicomticmanagementsystem\\repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\unicomticmanagementsystem\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|solutionrelative:unicomticmanagementsystem\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\unicomticmanagementsystem\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|solutionrelative:unicomticmanagementsystem\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\unicomticmanagementsystem\\views\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|solutionrelative:unicomticmanagementsystem\\views\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|c:\\unicomticmanagementsystem\\unicomticmanagementsystem\\unicomticmanagementsystem\\repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|solutionrelative:unicomticmanagementsystem\\repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\unicomticmanagementsystem\\views\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|solutionrelative:unicomticmanagementsystem\\views\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\unicomticmanagementsystem\\views\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|solutionrelative:unicomticmanagementsystem\\views\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\unicomticmanagementsystem\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +31,8 @@
       "RelativeMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|solutionrelative:unicomticmanagementsystem\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|c:\\unicomticmanagementsystem\\unicomticmanagementsystem\\unicomticmanagementsystem\\views\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\unicomticmanagementsystem\\views\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|solutionrelative:unicomticmanagementsystem\\views\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\unicomticmanagementsystem\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|solutionrelative:unicomticmanagementsystem\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\unicomticmanagementsystem\\views\\timetableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\unicomticmanagementsystem\\views\\markform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|solutionrelative:unicomticmanagementsystem\\views\\markform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\unicomticmanagementsystem\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|solutionrelative:unicomticmanagementsystem\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE3A1783-4650-4D24-847F-E251592E4968}|UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj|C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\unicomticmanagementsystem\\views\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -194,32 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "UnicomTICManagementSystem\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:30:09.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentForm.cs [Design]",
-              "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\StudentForm.cs",
-              "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Views\\StudentForm.cs",
-              "ToolTip": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\StudentForm.cs [Design]",
-              "RelativeToolTip": "UnicomTICManagementSystem\\Views\\StudentForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:35:27.147Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Program.cs",
@@ -231,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CourseController.cs",
               "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Controllers\\CourseController.cs",
@@ -239,12 +214,11 @@
               "RelativeToolTip": "UnicomTICManagementSystem\\Controllers\\CourseController.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:27:53.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T06:27:53.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CourseForm.cs",
               "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\CourseForm.cs",
               "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Views\\CourseForm.cs",
@@ -257,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DatabaseManager.cs",
               "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Repositories\\DatabaseManager.cs",
               "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Repositories\\DatabaseManager.cs",
@@ -270,7 +244,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Views\\LoginForm.cs",
+              "ToolTip": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\LoginForm.cs [Design]",
+              "RelativeToolTip": "UnicomTICManagementSystem\\Views\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:34:20.722Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\MainForm.cs",
+              "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Views\\MainForm.cs",
+              "ToolTip": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\MainForm.cs [Design]",
+              "RelativeToolTip": "UnicomTICManagementSystem\\Views\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:32:20.683Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\StudentForm.cs",
+              "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Views\\StudentForm.cs",
+              "ToolTip": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\StudentForm.cs [Design]",
+              "RelativeToolTip": "UnicomTICManagementSystem\\Views\\StudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:35:27.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "UnicomTICManagementSystem\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:30:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "TimetableForm.cs [Design]",
               "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\TimetableForm.cs",
               "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Views\\TimetableForm.cs",
@@ -281,29 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\LoginForm.cs",
-              "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Views\\LoginForm.cs",
-              "ToolTip": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\LoginForm.cs [Design]",
-              "RelativeToolTip": "UnicomTICManagementSystem\\Views\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:34:20.722Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\MainForm.cs",
-              "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Views\\MainForm.cs",
-              "ToolTip": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\MainForm.cs [Design]",
-              "RelativeToolTip": "UnicomTICManagementSystem\\Views\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T08:32:20.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "MarkForm.cs [Design]",
               "DocumentMoniker": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\MarkForm.cs",
               "RelativeDocumentMoniker": "UnicomTICManagementSystem\\Views\\MarkForm.cs",
@@ -333,7 +332,8 @@
               "RelativeToolTip": "UnicomTICManagementSystem\\Views\\LoginForm.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAuwC8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T07:03:45.87Z"
+              "WhenOpened": "2025-06-19T07:03:45.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -345,7 +345,8 @@
               "RelativeToolTip": "UnicomTICManagementSystem\\Views\\MainForm.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAGQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T08:38:48.536Z"
+              "WhenOpened": "2025-06-19T08:38:48.536Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -357,7 +358,8 @@
               "RelativeToolTip": "UnicomTICManagementSystem\\Views\\MainForm.Designer.cs",
               "ViewState": "AgIAAJIAAAAAAAAAAAAAwKAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T16:31:47.692Z"
+              "WhenOpened": "2025-06-19T16:31:47.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -524,7 +526,8 @@
               "ToolTip": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Properties\\Resources.resx",
               "RelativeToolTip": "UnicomTICManagementSystem\\Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-23T07:25:17.34Z"
+              "WhenOpened": "2025-06-23T07:25:17.34Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -546,7 +549,8 @@
               "ToolTip": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\MainForm.resx",
               "RelativeToolTip": "UnicomTICManagementSystem\\Views\\MainForm.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-19T16:39:59.988Z"
+              "WhenOpened": "2025-06-19T16:39:59.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -629,7 +633,8 @@
               "ToolTip": "C:\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\UnicomTICManagementSystem\\Views\\LoginForm.resx",
               "RelativeToolTip": "UnicomTICManagementSystem\\Views\\LoginForm.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-20T07:10:32.237Z"
+              "WhenOpened": "2025-06-20T07:10:32.237Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -641,7 +646,8 @@
               "RelativeToolTip": "UnicomTICManagementSystem\\Views\\LoginForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T16:40:07.573Z"
+              "WhenOpened": "2025-06-19T16:40:07.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
