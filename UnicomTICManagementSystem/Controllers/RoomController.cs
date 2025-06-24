@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UnicomTICManagementSystem.Models
+namespace UnicomTICManagementSystem.Controllers
 {
-    internal class User
+    internal class RoomController
     {
     }
 }

@@ -92,5 +92,15 @@ namespace UnicomTICManagementSystem.Views
             TimetableForm tf = new TimetableForm();
             tf.Show();
         }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+      //  private void pictureBox1_Click(object sender, EventArgs e)
+      //  {
+
+       // }
     }
 }
